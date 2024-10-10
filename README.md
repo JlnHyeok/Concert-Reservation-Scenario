@@ -3,9 +3,12 @@
 ## 6.1 ERD 설계
 <img width="701" alt="image" src="https://github.com/user-attachments/assets/6de176fe-5bf2-4c61-a8b5-07730dc8331f">
 
+---
+
+
 ## 6.2 API 명세서 및 Mock API
 - 유저 대기열 및 예약 서비스를 위한 API 명세서입니다.
----
+
 ### 1. 토큰 발급
 
 - **설명**: 사용자가 대기열에 등록하기 위한 토큰을 발급받습니다.
@@ -162,6 +165,7 @@
       "remain" : 5000
     }
     ```
+---
 
 ## 6.3 기술 스택
 ### 6.3.1 주요 기술
