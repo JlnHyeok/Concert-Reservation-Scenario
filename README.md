@@ -1,7 +1,8 @@
 # Step 6. ERD 설계 및 API 명세서 작성
 
 ## 6.1 ERD 설계
-<img width="701" alt="image" src="https://github.com/user-attachments/assets/6de176fe-5bf2-4c61-a8b5-07730dc8331f">
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/014a364f-2dd7-4502-bc3d-1410372817eb">
+
 
 ---
 
